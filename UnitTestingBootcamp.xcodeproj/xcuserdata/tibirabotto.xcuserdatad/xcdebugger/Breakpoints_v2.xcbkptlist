@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "973A58AB-7AA3-4DFA-B32E-B2E54C3061C3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0C28E74-5DAE-49C9-B73A-AB367BA7AEDB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitTestingBootcamp_Tests/UnitTestingBootcamp_Tests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "UnitTestingBootcamp_Tests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A0C28E74-5DAE-49C9-B73A-AB367BA7AEDB - 5ee21e1b9251eea2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTestingBootcamp_Tests.UnitTestingBootcamp_Tests.__allocating_init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; UnitTestingBootcamp_Tests.UnitTestingBootcamp_Tests"
+                  moduleName = "UnitTestingBootcamp_Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tibirabotto/Documents/Projects/ios/UnitTestingBootcamp/UnitTestingBootcamp_Tests/UnitTestingBootcamp_Tests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "A0C28E74-5DAE-49C9-B73A-AB367BA7AEDB - 85f2e710d86cbd3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTestingBootcamp_Tests.UnitTestingBootcamp_Tests.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; UnitTestingBootcamp_Tests.UnitTestingBootcamp_Tests"
+                  moduleName = "UnitTestingBootcamp_Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tibirabotto/Documents/Projects/ios/UnitTestingBootcamp/UnitTestingBootcamp_Tests/UnitTestingBootcamp_Tests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "A0C28E74-5DAE-49C9-B73A-AB367BA7AEDB - 7c0caac7eb8b9d65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTestingBootcamp_Tests.UnitTestingBootcamp_Tests.__allocating_init(selector: ObjectiveC.Selector) -&gt; UnitTestingBootcamp_Tests.UnitTestingBootcamp_Tests"
+                  moduleName = "UnitTestingBootcamp_Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tibirabotto/Documents/Projects/ios/UnitTestingBootcamp/UnitTestingBootcamp_Tests/UnitTestingBootcamp_Tests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "A0C28E74-5DAE-49C9-B73A-AB367BA7AEDB - 2a04f8011e8dab5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTestingBootcamp_Tests.UnitTestingBootcamp_Tests.init(selector: ObjectiveC.Selector) -&gt; UnitTestingBootcamp_Tests.UnitTestingBootcamp_Tests"
+                  moduleName = "UnitTestingBootcamp_Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tibirabotto/Documents/Projects/ios/UnitTestingBootcamp/UnitTestingBootcamp_Tests/UnitTestingBootcamp_Tests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "A0C28E74-5DAE-49C9-B73A-AB367BA7AEDB - 428daeea9507ef06"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTestingBootcamp_Tests.UnitTestingBootcamp_Tests.__allocating_init() -&gt; UnitTestingBootcamp_Tests.UnitTestingBootcamp_Tests"
+                  moduleName = "UnitTestingBootcamp_Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tibirabotto/Documents/Projects/ios/UnitTestingBootcamp/UnitTestingBootcamp_Tests/UnitTestingBootcamp_Tests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "A0C28E74-5DAE-49C9-B73A-AB367BA7AEDB - be26d60865bfb7c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTestingBootcamp_Tests.UnitTestingBootcamp_Tests.init() -&gt; UnitTestingBootcamp_Tests.UnitTestingBootcamp_Tests"
+                  moduleName = "UnitTestingBootcamp_Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tibirabotto/Documents/Projects/ios/UnitTestingBootcamp/UnitTestingBootcamp_Tests/UnitTestingBootcamp_Tests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "A0C28E74-5DAE-49C9-B73A-AB367BA7AEDB - c39233b59fc2fb11"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTestingBootcamp_Tests.UnitTestingBootcamp_Tests.__deallocating_deinit"
+                  moduleName = "UnitTestingBootcamp_Tests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tibirabotto/Documents/Projects/ios/UnitTestingBootcamp/UnitTestingBootcamp_Tests/UnitTestingBootcamp_Tests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
